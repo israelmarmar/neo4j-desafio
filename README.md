@@ -11,3 +11,5 @@ Abra a pasta web e rode o comando:
 ```
 npm run dev
 ```
+
+Abra http://localhost:5173/explore
