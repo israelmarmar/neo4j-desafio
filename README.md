@@ -12,4 +12,4 @@ Abra a pasta web e rode o comando:
 npm run dev
 ```
 
-Abra primeiramente http://localhost:5173/explore e comece adicinar Trails
+Abra primeiramente http://localhost:5173/explore e comece adicionar Trails
